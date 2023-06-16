@@ -1,6 +1,6 @@
 ### :magnet: DNSRecorder
 
-Is a Simple Tool used to collect all DNS Records for any domains.
+Is a simple python tool used to collect all DNS Records for any domain.
 
 
 ## Usage:
