@@ -1,4 +1,4 @@
-:magnet:  DNSRecorder
+:magnet:  ### DNSRecorder
 
 Is a Simple Tool used to collect all DNS Records for any domains.
 
